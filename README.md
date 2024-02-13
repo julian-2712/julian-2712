@@ -9,7 +9,7 @@
 * [Curso 5. Curso de PHP con Composer.](https://github.com/julian-2712/Curso-5?tab=readme-ov-file#ruta-php)
 * [Curso 6. Curso de Manejo de Datos en PHP.](https://github.com/julian-2712/Curso-6?tab=readme-ov-file#ruta-php)
 * [Curso 7. Curso de Programación Orientada a Objetos en PHP.](https://github.com/julian-2712/Curso-7?tab=readme-ov-file#ruta-php)
-* Curso 8. Curso de Patrones de Diseño y Buenas Prácticas en PHP.
+* [Curso 8. Curso de Patrones de Diseño y Buenas Prácticas en PHP.](https://github.com/julian-2712/Curso-8?tab=readme-ov-file#ruta-php)
 * Curso 9. Curso de PHP: Entornos Virtuales y Funciones Avanzadas.
 * Curso 10. Curso de PHP: Cookies, Sesiones y Modularización.
 * Curso 11. Curso de PHP: Bases de Datos.
