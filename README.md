@@ -1,5 +1,5 @@
 # julian-2712
-## Cursos
+## Courses
 ### Platzi
 
 * [Curso 1. Curso Básico de PHP: Instalación, Fundamentos y Operadores.](https://github.com/julian-2712/Curso-1?tab=readme-ov-file#ruta-php)
