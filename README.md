@@ -2,6 +2,8 @@
 ## Courses
 ### Platzi
 
+### Primeros pasos con PHP
+
 * [Curso 1. Curso Básico de PHP: Instalación, Fundamentos y Operadores.](https://github.com/julian-2712/Curso-1?tab=readme-ov-file#ruta-php)
 * [Curso 2. Curso de PHP: Arreglos, Funciones y Estructuras de Control.](https://github.com/julian-2712/Curso-2?tab=readme-ov-file#ruta-php)
 * [Curso 3. Curso Práctico de PHP.](https://github.com/julian-2712/Curso-3?tab=readme-ov-file#ruta-php)
